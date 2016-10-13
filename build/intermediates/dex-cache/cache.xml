@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_bb88f44a4f7be8537f3b95c646de4d0eb83736e8\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="77743dbb07f1fc5e66e510dedb057ff51bce5ebd">
+        <dex dex="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f44da8bd52c1833f4420cb85d31e007b819c7144\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_bc7c4b7ebe967ce86d89a4b180b8bf2109244623\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_30496a2bc2d7e54371182ea7f456cb03f05b2406\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_dd91ecae0e2802df12eb8b54a5169c434f721297\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_217ae35e2a0778537123184b8bf9be1827a94122\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_4e91a89625f2b65465abe0b33e9c6c325ee6ec99\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c7b98d6d3d54e4aa65e4d18e5c3becd143625e21">
+        <dex dex="F:\AndriodStudioProject\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b645609123a5ecf401e459af0cea0c896b08b51c\classes.dex" />
+    </item>
+
+</items>
